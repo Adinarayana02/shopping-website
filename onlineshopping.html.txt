@@ -1,0 +1,248 @@
+<!DOCTYPE Html>
+<Html Lang="En">
+    <Head>
+        <Meta Charset="UTF-8" />
+        <Meta Http-Equiv="X-UA-Compatible" Content="IE=Edge" />
+        <Meta Name="Viewport" Content="Width=Device-Width" />
+        <Title>Document</Title>
+        <Link Rel="Stylesheet" Href="./Ecommerce.Css" />
+        <Link
+            Href="Https://Unpkg.Com/Ionicons@4.5.10-0/Dist/Css/Ionicons.Min.Css"
+            Rel="Stylesheet"
+        />
+<head>
+
+  <link rel="stylesheet" href="./ecommerce.css">
+  <link href=" #" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <div class="logo"><a href="#">ThoTa</a></div>
+    
+    <div class="menu">
+      <a href="#">
+        <ion-icon name="close" class="close"></ion-icon>
+      </a>
+
+      <Ul>
+                    <Li><A Href="#" Class="Under">HOME</A></Li>
+                    <Li><A Href="#" Class="Under">SHOP</A></Li>
+                    <Li><A Href="#" Class="Under">OUR PRODUCTS</A></Li>
+                    <Li><A Href="#" Class="Under">CONTACT US</A></Li>
+                    <Li><A Href="#" Class="Under">SINGUP</A></Li>
+                </Ul>
+    </div>
+    <div class="search">
+
+      <a href=""><input type="text" placeholder="search products" id="input">
+        <ion-icon class="s" name="search"></ion-icon>
+      </a>
+    </div>
+    <div class="heading">
+      <ul>
+         <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="#">Deals</a></li>
+        <li><a href="#">Stores</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Your Account</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
+      </ul>
+    </div>
+    <div class="heading1">
+      <ion-icon name="menu" class="ham"></ion-icon>
+    </div>
+  </header>
+  <section>
+    <div class="section">
+      <div class="section1">
+        <div class="img-slider">
+          <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwBZqXAYMfqN4TIbARbeMMFPK0ynjDwvQy2ix8Y4ku3ldLuPPLJlzYOYh4QHHay_vJoYqahi0RFMfw_wTl64KNiUa-ezv_eiJrs7ocAd0N9XTJ6He6gMZP8w" alt="" class="img">
+          <img src="https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/11067734/2019/12/10/34b589c2-80b9-4ad9-81ea-84333fbc46761575972548055-DILLINGER-Men-Tshirts-4071575972546110-1.jpg" alt="" class="img">
+          <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQkKSNJFebBxR12EyNP_Blkm7f4HAFILvqbVgKI0GEZ4rT774IFspg0_5ZY-zFO_g&usqp=CAc" class="img">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmGUfcZ4I6uA805Z5PdpWIds1a4m-KmW-WYA&usqp=CAU" alt="" class="img">
+          <img src="https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="" class="img">
+        </div>
+
+      </div>
+      <div class="section2">
+        <div class="container">
+          <div class="items">
+            <div class="img img1"><img src="https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt=""></div>
+            <div class="name">SHOES</div>
+            <div class="price">*500</div>
+            <div class="info">Mens Loire-z178 Running Shoe3.8</div>
+          </div>
+          <div class="items">
+            <div class="img img2"><img src="https://images.pexels.com/photos/3649765/pexels-photo-3649765.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt=""></div>
+            <div class="name">MEN's T-SHIRT</div>
+            <div class="price">*634</div>
+            <div class="info">Men Polo T-Shirt - Cotton Rich - Ultra Soft, Short Sleeve.</div>
+          </div>
+          <div class="items">
+            <div class="img img3"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8VKNXgwglS3Ew3vVmaMbeJG7btl5-I5PL5g&usqp=CAU" alt=""></div>
+            <div class="name">JEANS</div>
+            <div class="price">*900</div>
+            <div class="info">Men's Slim Fit Track pants</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://images.pexels.com/photos/8839887/pexels-photo-8839887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt=""></div>
+            <div class="name">WATCH</div>
+            <div class="price">*1900</div>
+            <div class="info">Lorem ipsum dolor sit.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE9eUVwXXZaqmXGpIyKs_LLjlrlUdbZIvD7Q&usqp=CAU"></div>
+            <div class="name">SMART PHONE</div>
+            <div class="price">*24000</div>
+            <div class="info">Redmi 10A (Slate Grey, 4GB RAM, 64GB Storage) | 2 Ghz Octa Core Helio G25 | 5000 mAh Battery | Finger Print Sensor | Upto 5GB RAM with RAM Booster4.0 out of 5 stars (4.0)13,168</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://images.pexels.com/photos/5552789/pexels-photo-5552789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt=""></div>
+            <div class="name">TELEVISION</div>
+            <div class="price"></div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://images.pexels.com/photos/4295985/pexels-photo-4295985.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt=""></div>
+            <div class="name">HOODIES</div>
+            <div class="price">*670</div>
+            <div class="info">Hooded Full Sleeves Casual Hoddie</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://media.istockphoto.com/photos/vintage-plates-with-silver-teaspoons-picture-id184363070" alt=""></div>
+            <div class="name">DINNER SET</div>
+            <div class="price">*1000</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://images.pexels.com/photos/6463348/pexels-photo-6463348.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt=""></div>
+            <div class="name">BLANKETS</div>
+            <div class="price">*900</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur adipisicing.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://images.pexels.com/photos/2659939/pexels-photo-2659939.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt=""></div>
+            <div class="name">LAPTOP</div>
+            <div class="price">*99000</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://media.istockphoto.com/photos/modern-kitchen-microwave-oven-picture-id1144960519" alt=""></div>
+            <div class="name">MICROWAVE</div>
+            <div class="price">*300</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://media.istockphoto.com/photos/black-coffee-maker-with-green-led-lights-picture-id177395430" alt=""></div>
+            <div class="name">COFFEE MAKER</div>
+            <div class="price">*2970</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://images.pexels.com/photos/6606354/pexels-photo-6606354.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt=""></div>
+            <div class="name">BED</div>
+            <div class="price">*1000</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://media.istockphoto.com/photos/woman-turning-on-air-conditioner-picture-id1325708905" alt=""></div>
+            <div class="name">AIR CONDITIONER</div>
+            <div class="price">*7800</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://images.pexels.com/photos/5834/nature-grass-leaf-green.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt=""></div>
+            <div class="name">BOOK</div>
+            <div class="price">*90</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://images.pexels.com/photos/4339598/pexels-photo-4339598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt=""></div>
+            <div class="name">BAG</div>
+            <div class="price">*3650</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://media.istockphoto.com/photos/hand-of-a-lady-selecting-yellow-colored-saree-in-a-shop-picture-id1301740530" alt=""></div>
+            <div class="name">SAREES</div>
+            <div class="price">*256</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</div>
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://images.pexels.com/photos/5816934/pexels-photo-5816934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt=""></div>
+            <div class="name">WASHING MACHINE</div>
+            <div class="price">*56000</div>
+            <div class="info">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </section>
+  <footer>
+    <div class="footer0">
+      <h1>ThoTa</h1>
+    </div>
+    <div class="footer1 ">
+      Connect with us at<div class="social-media">
+        <a href="#">
+          <ion-icon name="logo-facebook">facebook</ion-icon>
+        </a>
+        <a href="#">
+          <ion-icon name="logo-linkedin">linkedin</ion-icon>
+        </a>
+        <a href="#">
+          <ion-icon name="logo-youtube">youtude</ion-icon>
+        </a>
+        <a href="#">
+          <ion-icon name="logo-instagram">instagram</ion-icon>
+        </a>
+        <a href="#">
+          <ion-icon name="logo-twitter">twitter</ion-icon>
+        </a>
+      </div>
+    </div>
+    <div class="footer2">
+      <div class="product">
+        <div class="heading">Products</div>
+        <div class="div">Sell your Products</div>
+        <div class="div">Advertise</div>
+        <div class="div">Pricing</div>
+        <div class="div">Product Buisness</div>
+
+      </div>
+      <div class="services">
+        <div class="heading">Services</div>
+        <div class="div">Return</div>
+        <div class="div">Cash Back</div>
+        <div class="div">Affiliate Marketing</div>
+        <div class="div">Others</div>
+      </div>
+      <div class="Company">
+        <div class="heading">Company</div>
+        <div class="div">Complaint</div>
+        <div class="div">Careers</div>
+        <div class="div">Affiliate Marketing</div>
+        <div class="div">Support</div>
+      </div>
+      <div class="Get Help">
+        <div class="heading">Get Help</div>
+        <div class="div">Help Center</div>
+        <div class="div">Privacy Policy</div>
+        <div class="div">Terms</div>
+        <div class="div">Login</div>
+      </div>
+    </div>
+    <div class="footer3">Copyright © <h4>THoTa</h4> 2021-2028</div>
+  </footer>
+  <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+  <script src="./ecommerce.js"></script>
+
+</body>
+
+</html>
