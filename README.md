@@ -1,4 +1,4 @@
-# Complete User Login & Registration system using PHP and MySQL database
+# User Login & Registration 
 
 version: 1.0.0
 
